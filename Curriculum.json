@@ -1,0 +1,42 @@
+{
+	"nombre": "Jose Enrique Mendez Marquez",
+	"fechaNacimiento": "19 de Marzo del 2001",
+	"Resumen": "Soy un estudiante egresado de CECyTE Plantel 1, con un titulo de tecnico y estudiante de la UT",
+	"telefono": "984-213-59-44",
+	"puestoSolicitado": "Programador" ,
+	"lenguages":[
+		"php",
+		"javascript",
+		"html",
+		"css",
+		"Python"
+	],
+	"baseDeDatos":[
+		"Mysql"
+	],
+	
+	"experienciaLaboral":[
+		{
+			"empresa": "Red Led",
+			"Puesto": "Gerente",
+			"fechaIngreso": "03/Junio/2020",
+			"fechaTermino": "05/Agosto/2024",
+			"responsabilidades":[
+						"Encargado ",
+						"Validar procesos",
+						"Registro de ingreso y egreso de efectivo",
+						"Manejo de facturas",
+						"Control personal"
+			]
+		}
+
+    ],
+	"educacion":[
+		{
+			"escuela": "Colegio de Estudios Tecnologicos del Estado",
+			"gradoEstudio": "6to Semestre",
+			"fechaIngreso": "20/Agosto/2017",
+			"fechaTermino": "30/Junio/2020"
+		}
+	]
+}
