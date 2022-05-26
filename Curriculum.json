@@ -1,9 +1,9 @@
-{
+{   "datosPersonales":[{
 	"nombre": "Jose Enrique Mendez Marquez",
 	"fechaNacimiento": "19 de Marzo del 2001",
 	"Resumen": "Soy un estudiante egresado de CECyTE Plantel 1, con un titulo de tecnico y estudiante de la UT",
 	"telefono": "984-213-59-44",
-	"puestoSolicitado": "Programador" ,
+	"puestoSolicitado": "Programador"}] ,
 	"lenguages":[
 		"php",
 		"javascript",
